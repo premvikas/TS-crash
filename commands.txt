@@ -1,0 +1,5 @@
+npm install -g typescript -> install typescript globally
+tsc -version -> checks typescript version
+tsc --init -> created tsconfig.json file
+tsc -> complies
+tsc --watch -> watches continuosly, compiles on save
